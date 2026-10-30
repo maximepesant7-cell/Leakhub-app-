@@ -1,3 +1,0 @@
-[build]
-  command = "node update.mjs"
-  publish = "."
